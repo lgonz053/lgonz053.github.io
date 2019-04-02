@@ -2625,7 +2625,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer .icons {
-		margin: 1em 0 0 0;
+		margin-top: 525px;
 	}
 
 		#footer .icons a {
